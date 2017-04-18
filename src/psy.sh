@@ -48,7 +48,7 @@ perl -e 'use strict;
 ' $@
 }
 
-cluster.test(){
+cluster__test(){
 echo \
 "chr1	1	2	a	1	+
 chr1	2	3	a	2	+
